@@ -1,7 +1,7 @@
 
 
 
-<img src="addons/github-integration/github-logo.png" align="left" width="64" height="64">
+<img src="https://hh.ru/employer-logo/2929537.png" align="left" width="64" height="64">
 
 # Good Neighbors Website Game
 
