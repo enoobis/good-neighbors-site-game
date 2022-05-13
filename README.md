@@ -1,3 +1,11 @@
 
 
-This plugin is now supported in [Godot Extended Library Discord](https://discord.gg/JNrcucg), check out the [Godot Extended Library Project](https://github.com/godot-extended-libraries)!
+
+<img src="addons/github-integration/github-logo.png" align="left" width="64" height="64">
+
+# Good Neighbors Website Game
+-----------------------------
+
+Author: *"enoobis & ryokoumono"*  
+Version: *1.0*  
+Godot Version: *3.4.4*  
